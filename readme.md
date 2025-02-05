@@ -116,13 +116,13 @@ Please look at the images folder for more detailed data. We only added the most 
 
 Our model predicted the car prices reasonably well for prices below $40,000 dollars.
 
-![Model Outcome - Ridge](tree/main/images/01_cars_price_scatterplot.png)
+![Model Outcome - Ridge](https://github.com/fnimer/cars/tree/main/images/01_cars_price_scatterplot.png)
 
 Approximately between the years 2000 and 2014, the predicted prices were ABOVE the actual prices sold to customers. This indicates that there is an opportunity to RAISE prices for the types of cars sold in that timeframe. We recommend breaking down the data of this period to design marketing strategies for similar situations in the future.
 
 The opposite occurred between 2014 and 2020. The predicted prices were below the actual prices sold. We recommend another study to understand what changed, and apply this knowledge to a version 2 of this model.
 
-![Average Price Variation](tree/main/images/05_car_average_price_per_year_plot.png)
+![Average Price Variation](https://github.com/fnimer/cars/tree/main/images/05_car_average_price_per_year_plot.png)
 
 The two most important features affecting prices were:
 
@@ -136,26 +136,26 @@ Emphasizing odometer and year combined appears to be the best strategy when the 
 
 Our model also predicted prices per odometer values that are consistent with this recommendation.
 
-![Average Price Variation](tree/main/images/06_car_average_price_per_odometer_plot.png)
+![Average Price Variation](https://github.com/fnimer/cars/tree/main/images/06_car_average_price_per_odometer_plot.png)
 
 The report below show the variation of car prices per year, odometer and condition of the car (good, bad):
 
-![Enter image alt description](tree/main/images/02_cars_price_scatterplot.png)
+![Enter image alt description](https://github.com/fnimer/cars/tree/main/images/02_cars_price_scatterplot.png)
 
-![Enter image alt description](tree/main/images/03_cars_price_cylinders_boxplot.png)
+![Enter image alt description](https://github.com/fnimer/cars/tree/main/images/03_cars_price_cylinders_boxplot.png)
 
-![Enter image alt description](tree/main/images/04_cars_price_condition_boxplot.png)
+![Enter image alt description](https://github.com/fnimer/cars/tree/main/images/04_cars_price_condition_boxplot.png)
 
-![Enter image alt description](tree/main/images/07_car_average_price_per_odometer_condition_plot.png)
+![Enter image alt description](https://github.com/fnimer/cars/tree/main/images/07_car_average_price_per_odometer_condition_plot.png)
 
-![Enter image alt description](tree/main/images/08_car_average_actual_price_per_odometer_condition_plot.png)
+![Enter image alt description](https://github.com/fnimer/cars/tree/main/images/08_car_average_actual_price_per_odometer_condition_plot.png)
 
-![Enter image alt description](tree/main/images/09_car_average_predicted_price_per_odometer_condition_plot.png)
+![Enter image alt description](https://github.com/fnimer/cars/tree/main/images/09_car_average_predicted_price_per_odometer_condition_plot.png)
 
 The analysis below show the histogram for odometer, actual car prices and year:
 
-![Enter image alt description](tree/main/images/car_odometer_histogram.png)
+![Enter image alt description](https://github.com/fnimer/cars/tree/main/images/car_odometer_histogram.png)
 
-![Enter image alt description](tree/main/images/car_price_histogram.png)
+![Enter image alt description](https://github.com/fnimer/cars/tree/main/images/car_price_histogram.png)
 
-![Enter image alt description](tree/main/images/car_year_histogram.png)
+![Enter image alt description](https://github.com/fnimer/cars/tree/main/images/car_year_histogram.png)
